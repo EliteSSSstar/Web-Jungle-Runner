@@ -8,7 +8,7 @@ public class Link : MonoBehaviour
 	public void OpenLinkJSPlugin()
 	{
 		#if !UNITY_EDITOR
-		openWindow(" ");
+		openWindow("https://elitesssstar.github.io/Web-Jungle-Runner/");
 		
 		#endif
 	}
